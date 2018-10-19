@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">picpuz</string>
+    <string name="button">Button</string>
+    <string name="radiobutton1">RadioButton</string>
+    <string name="radiobutton2">RadioButton</string>
+    <string name="radiobutton3">RadioButton</string>
+</resources>
